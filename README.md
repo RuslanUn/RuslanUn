@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
 	<h1>Hi there👋<br>I'm Ruslan</h1>
-	<h3>Sofware Developer from Karaganda</h3>
+	<h3>Sofware Developer</h3>
 </div>
 
 
