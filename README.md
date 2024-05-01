@@ -2,6 +2,7 @@
 <div id="header" align="center">
 	<h1>Hi there👋<br>I'm Ruslan</h1>
 	<h3>Software Developer</h3>
+	<h3>&</h3>
 	<h3>Software QA Engineer</h3>
 </div>
 
